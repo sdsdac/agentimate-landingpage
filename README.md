@@ -287,3 +287,61 @@ Then, execute the following scripts with `npm run <script>`.
 - anime.speed = .5;
 + engine.playbackRate = .5;
 ```
+
+# Agentimate Landing Page
+
+A modern, animated landing page for Agentimate - the AI who animates your ideas. This project showcases various animation effects and interactive features using anime.js.
+
+## Features
+
+- Modern, responsive design
+- Interactive animations
+- Live preview window
+- Dynamic instruction demonstrations
+- Smooth transitions and effects
+- Mobile-friendly layout
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- anime.js for animations
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/sdsdac/agentimate-landingpage.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd agentimate-landingpage
+```
+
+3. Start a local server (using Python or any other method):
+```bash
+python -m http.server 8000
+```
+
+4. Open your browser and visit:
+```
+http://localhost:8000
+```
+
+## Available Animations
+
+The landing page includes various animation demonstrations:
+- Rotation effects
+- Mobile view transformations
+- Shake animations
+- Color transitions
+- Zoom effects
+- Bounce animations
+- Dark mode transitions
+- 3D flip effects
+
+## License
+
+MIT License
